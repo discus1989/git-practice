@@ -1,0 +1,8 @@
+Gitの練習をしますよ。
+これから基礎の練習をします。
+・git add
+・git commit
+.git rmの勉強もしました。
+.git statusの勉強もしたよ！
+.vimで編集してみたよ！
+.add message.
